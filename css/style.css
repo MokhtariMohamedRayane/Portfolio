@@ -386,7 +386,7 @@ html{
         min-height: auto;
     }
     }
-@media (max-width : 768px){
+@media (max-width : 458px){
     #menu-icon{
         display: block;
     }
